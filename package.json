@@ -1,0 +1,19 @@
+{
+  "name": "ohmboi",
+  "version": "1.0.0",
+  "description": "ohms law module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/ohmBoi.git"
+  },
+  "author": "Ehawk LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/ohmBoi/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/ohmBoi#readme"
+}
