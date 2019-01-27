@@ -12,4 +12,4 @@ usage:
 <code> findR(v,i) </code>
 <br />
 -finding current(i) when volage(v) and resistance(r) are known:
-<code> findI(r,i) </code>
+<code> findI(v,i) </code>
